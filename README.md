@@ -1,4 +1,4 @@
-# jupyter-notebooks
+# Jupyter Notebooks
 Random Experiments and Data Exploration with Jupyter and Python
 
 # More information
